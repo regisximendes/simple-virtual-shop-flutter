@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130980295306",
+    "firebase_url": "https://loja-virtual-flutter-21993.firebaseio.com",
+    "project_id": "loja-virtual-flutter-21993",
+    "storage_bucket": "loja-virtual-flutter-21993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130980295306:android:1f42b2f70f5c0d969e3373",
+        "android_client_info": {
+          "package_name": "com.ximendes.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130980295306-21dfh80vna9nmicc3qkeb0e2ik77rbpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Nm5z269y2B1uedgaT33xN4K3bQsLN6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130980295306-21dfh80vna9nmicc3qkeb0e2ik77rbpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
