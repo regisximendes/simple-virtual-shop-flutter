@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:loja_virtual/ui/sign_in_screen.dart';
 import 'package:loja_virtual/ui/widgets/DrawerTile.dart';
 
 class CustomDrawer extends StatelessWidget {
@@ -40,7 +41,9 @@ class CustomDrawer extends StatelessWidget {
                                 fontSize: 16, fontWeight: FontWeight.bold),
                           ),
                           GestureDetector(
-                            onTap: () {},
+                            onTap: () {
+                              Navigator.of(context).push(MaterialPageRoute(builder: (context) => LoginScreen()));
+                            },
                             child: Text(
                               "SignIn or signUp",
                               style: TextStyle(
